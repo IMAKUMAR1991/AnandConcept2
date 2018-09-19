@@ -23,8 +23,8 @@ public static void main(String[] args) {
 			 System.out.println("both are not equal".toString());
 			 
 		 }
-		// i m from eclipse
+		
 	
 }}
 		
-// i m from git
+
