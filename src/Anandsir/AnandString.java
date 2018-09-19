@@ -29,11 +29,3 @@ public class AnandString {
 
 
 // i am real git
-<<<<<<< HEAD
-
-// i m from git 
-
-// i m anand kumar
-=======
-// anand 
->>>>>>> 6447c35854ed81f88a5cddb5276bf3eb14c58af2
