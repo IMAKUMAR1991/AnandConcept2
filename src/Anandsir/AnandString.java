@@ -26,10 +26,4 @@ public static void main(String[] args) {
 		
 	
 		}
-		}
-<<<<<<< HEAD
-// i m from eclipse
-
-=======
-/// i m from git
->>>>>>> 5bcc85aaf5c22d181e20b1eaf96fcd20b87656b8
+		
