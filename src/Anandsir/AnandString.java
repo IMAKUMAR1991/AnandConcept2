@@ -26,6 +26,4 @@ public static void main(String[] args) {
 		
 	
 }}
-// i m git push from eclipse
 
-// i m first git push
